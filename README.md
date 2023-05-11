@@ -1,2 +1,2 @@
-# FMTL
-Fast. Modular. Tensor. Learning
+# TensorAccel
+Fast. Modular. Tensor. Calculations.
