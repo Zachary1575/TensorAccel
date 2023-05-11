@@ -1,2 +1,2 @@
-# FMMO
-Fast. Modular. Matrix Operations.
+# FMTL
+Fast. Modular. Tensor. Learning
